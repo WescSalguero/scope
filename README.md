@@ -1,1 +1,1 @@
-# scope
+# Scope in JavaScript
